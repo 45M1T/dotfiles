@@ -30,4 +30,4 @@ vim.opt.isfname:append("@-@")
 
 vim.opt.cursorline = true
 
-vim.cmd.highlight({ "StatusLine", "guibg=#282A2B", "guifg=#FFFFFF" })
+-- vim.cmd.highlight({ "StatusLine", "guibg=#282A2B", "guifg=#FFFFFF" })
